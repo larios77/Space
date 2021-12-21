@@ -1,0 +1,16 @@
+.container__notFound h1 {
+  color: #fff;
+  text-align: center;
+}
+.link__home {
+  color: #fff;
+  font-size: 18px;
+  display: flex;
+  justify-content: center;
+  border-bottom: 1px solid transparent;
+  transition: 0.3s all;
+  margin: 0 auto;
+}
+.link__home:hover {
+  color: #d0d6f9;
+}
